@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php
 /*
 	Author: Ben Burkett
