@@ -1,0 +1,26 @@
+[15-May-2015 03:41:10 UTC] PHP Warning:  move_uploaded_file(img/upload/homepageFixed.png): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 33
+[15-May-2015 03:41:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfWZhzv' to 'img/upload/homepageFixed.png' in /home/benjami1/public_html/mike/php/common_funcs.php on line 33
+[15-May-2015 04:04:45 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/benjami1/public_html/mike/php/addPropertyForSale.php on line 24
+[15-May-2015 12:09:48 UTC] PHP Warning:  phpinfo() expects parameter 1 to be long, string given in /home/benjami1/public_html/mike/php/addPropertyForSale.php on line 25
+[15-May-2015 17:11:39 UTC] PHP Warning:  getimagesize(/tmp/phpbNujS0): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[15-May-2015 17:11:41 UTC] PHP Warning:  getimagesize(/tmp/phpd6HBlg): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[15-May-2015 17:11:45 UTC] PHP Warning:  getimagesize(/tmp/php1h86px): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[15-May-2015 17:11:47 UTC] PHP Warning:  getimagesize(/tmp/phpwojnUn): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[15-May-2015 17:12:17 UTC] PHP Warning:  getimagesize(/tmp/phpuEIJdu): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[15-May-2015 17:13:23 UTC] PHP Warning:  getimagesize(/tmp/phpNyAhwO): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[15-May-2015 17:14:06 UTC] PHP Warning:  getimagesize(/tmp/phpQgmMZW): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/common_funcs.php on line 35
+[16-May-2015 21:48:40 UTC] PHP Parse error:  syntax error, unexpected 'we' (T_STRING), expecting ',' or ';' in /home/benjami1/public_html/mike/php/addPropertyForSale.php on line 28
+[22-May-2015 12:52:19 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/benjami1/public_html/mike/php/class.phpmailer.php on line 1290
+[22-May-2015 12:53:16 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/benjami1/public_html/mike/php/class.phpmailer.php on line 1290
+[22-May-2015 12:54:19 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/benjami1/public_html/mike/php/class.phpmailer.php on line 1290
+[22-May-2015 12:54:20 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/benjami1/public_html/mike/php/class.phpmailer.php on line 1290
+[22-May-2015 13:45:46 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/benjami1/public_html/mike/php/contact.php on line 14
+[22-May-2015 13:46:54 UTC] PHP Warning:  require(PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:46:54 UTC] PHP Warning:  require(PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:46:54 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:47:07 UTC] PHP Warning:  require(../PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:47:07 UTC] PHP Warning:  require(../PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:47:07 UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailer-master/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:47:09 UTC] PHP Warning:  require(../PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:47:09 UTC] PHP Warning:  require(../PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/php/contact.php on line 11
+[22-May-2015 13:47:09 UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailer-master/PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/php/contact.php on line 11

@@ -1,0 +1,77 @@
+footer{
+	bottom: 0px !important;
+}
+
+.main-header{
+	height: 72px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.border-bottom  p{
+	margin-bottom: 32px;
+}
+
+.margin{
+	margin: 24px auto;
+}
+
+.col-header{
+	height: 64px;
+	text-align: center;
+	margin: 10px auto;
+}
+
+.footer p{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+.banner{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+
+.contact label{
+    display: block;
+}
+
+.contact input{
+	color: black;
+}
+
+.contact input:last-child{
+	display: block;
+	margin-top: 10px;
+}
+
+.divmargin{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.content{
+    margin-top: 50px;
+}
+
+.roatateimg{
+    -ms-transform: rotate(270deg); /* IE 9 */
+    -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+    transform: rotate(270deg);
+}
+
+.gallery .scrollingHotSpotLeft{
+    height: 320px;
+}
+
+.gallery .scrollingHotSpotRight{
+    height: 320px;
+}
+
+
+
+
+

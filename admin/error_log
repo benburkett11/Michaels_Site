@@ -1,0 +1,38 @@
+[13-May-2015 03:32:49 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:49 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:49 UTC] PHP Warning:  include(): Failed opening 'templates/topPage.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:49 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:49 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:49 UTC] PHP Warning:  include(): Failed opening 'templates/topPage.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:51 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:51 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:32:51 UTC] PHP Warning:  include(): Failed opening 'templates/topPage.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:33:48 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:33:48 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:33:48 UTC] PHP Warning:  include(): Failed opening 'templates/topPage.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:33:50 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:33:50 UTC] PHP Warning:  include(templates/topPage.html): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:33:50 UTC] PHP Warning:  include(): Failed opening 'templates/topPage.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/index.php on line 6
+[13-May-2015 03:36:34 UTC] PHP Warning:  include(php/PDO_functions.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/addhouse.php on line 6
+[13-May-2015 03:36:34 UTC] PHP Warning:  include(php/PDO_functions.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/addhouse.php on line 6
+[13-May-2015 03:36:34 UTC] PHP Warning:  include(): Failed opening 'php/PDO_functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/addhouse.php on line 6
+[13-May-2015 03:36:34 UTC] PHP Fatal error:  Call to undefined function pdoSelect() in /home/benjami1/public_html/mike/admin/addhouse.php on line 9
+[13-May-2015 03:41:47 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/benjami1/public_html/mike/admin/login.php on line 23
+[13-May-2015 03:41:53 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/benjami1/public_html/mike/admin/login.php on line 23
+[13-May-2015 03:42:27 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/benjami1/public_html/mike/admin/login.php on line 23
+[13-May-2015 03:42:56 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/benjami1/public_html/mike/admin/login.php on line 23
+[13-May-2015 03:50:48 UTC] PHP Fatal error:  Call to undefined function pdoSelect() in /home/benjami1/public_html/mike/admin/house-management.php on line 16
+[13-May-2015 03:51:18 UTC] PHP Fatal error:  Call to undefined function pdoSelect() in /home/benjami1/public_html/mike/admin/house-management.php on line 16
+[13-May-2015 12:12:36 UTC] PHP Warning:  include(../phpcheckuser.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/updatehouse.php on line 7
+[13-May-2015 12:12:36 UTC] PHP Warning:  include(../phpcheckuser.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/updatehouse.php on line 7
+[13-May-2015 12:12:36 UTC] PHP Warning:  include(): Failed opening '../phpcheckuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/updatehouse.php on line 7
+[13-May-2015 12:12:36 UTC] PHP Fatal error:  Call to undefined function checkuser() in /home/benjami1/public_html/mike/admin/updatehouse.php on line 8
+[13-May-2015 18:14:37 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:15:14 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:15:16 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:17:17 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:17:28 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:17:30 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:19:28 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:21:02 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6
+[13-May-2015 18:21:04 UTC] PHP Fatal error:  Function name must be a string in /home/benjami1/public_html/mike/admin/updatehouse.php on line 6

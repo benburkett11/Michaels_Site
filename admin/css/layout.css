@@ -1,0 +1,46 @@
+footer{
+	position: fixed !important;
+	bottom: 0px !important;
+}
+
+.listcenter th, tr{
+    text-align: center !important;
+}
+
+.main-header{
+	height: 72px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.border-bottom  p{
+	margin-bottom: 32px;
+}
+
+.margin{
+	margin: 24px auto;
+}
+
+.col-header{
+	height: 64px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.footerP{
+	display: block;
+	text-align: center;
+	margin: 10px auto;
+}
+
+.banner{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+
+.buttonmargin{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+

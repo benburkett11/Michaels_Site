@@ -1,0 +1,14 @@
+[23-May-2015 03:43:51 UTC] PHP Warning:  include(../php/PDO_functions.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 9
+[23-May-2015 03:43:51 UTC] PHP Warning:  include(../php/PDO_functions.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 9
+[23-May-2015 03:43:51 UTC] PHP Warning:  include(): Failed opening '../php/PDO_functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 9
+[23-May-2015 03:43:51 UTC] PHP Warning:  include(../php/checkuser.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 10
+[23-May-2015 03:43:51 UTC] PHP Warning:  include(../php/checkuser.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 10
+[23-May-2015 03:43:51 UTC] PHP Warning:  include(): Failed opening '../php/checkuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 10
+[23-May-2015 03:43:51 UTC] PHP Fatal error:  Call to undefined function returnCheck() in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 12
+[23-May-2015 03:44:33 UTC] PHP Warning:  include(../php/PDO_functions.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 9
+[23-May-2015 03:44:33 UTC] PHP Warning:  include(../php/PDO_functions.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 9
+[23-May-2015 03:44:33 UTC] PHP Warning:  include(): Failed opening '../php/PDO_functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 9
+[23-May-2015 03:44:33 UTC] PHP Warning:  include(../php/checkuser.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 10
+[23-May-2015 03:44:33 UTC] PHP Warning:  include(../php/checkuser.php): failed to open stream: No such file or directory in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 10
+[23-May-2015 03:44:33 UTC] PHP Warning:  include(): Failed opening '../php/checkuser.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 10
+[23-May-2015 03:44:33 UTC] PHP Fatal error:  Call to undefined function returnCheck() in /home/benjami1/public_html/mike/admin/php/house_delete.php on line 12
